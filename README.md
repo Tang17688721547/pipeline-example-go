@@ -1,4 +1,4 @@
-# pipeline-example-go
+# pipeline-example-go321
 
 This is a sample golang project to demonstrate the integration with rancher pipeline.
 
